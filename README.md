@@ -57,16 +57,10 @@ Código Python para metodologia de aplicação do Kernel Density e Zonal Statist
 
    - É importante que os dados estejam com geometrias válidas – o script usa RepairGeometry para garantir isso.
 
-📌 Observações
-   - As operações são realizadas temporariamente na memória (memory\\), o que melhora performance, mas exige que o ArcGIS esteja configurado corretamente.
+📚 Sugestões
+   - Você pode transformar esse script em uma ferramenta de geoprocessamento no ArcGIS Pro, usando a aba de Toolboxes.
 
-   - Os parâmetros de Kernel Density são adaptáveis. Os valores utilizados foram:
-
-   - search_radius: 0.0015 (em unidades do sistema de referência da camada);
-
-   - cell_size: 0.77713003870646 (ajustar conforme o projeto).
-
-   - É importante que os dados estejam com geometrias válidas – o script usa RepairGeometry para garantir isso.
+   - Recomenda-se usar com dados vetoriais padronizados, com campos consistentes como year e Nome_UC.
 
 🤝 Créditos
 
