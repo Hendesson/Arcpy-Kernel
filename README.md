@@ -3,7 +3,7 @@ Código Python para metodologia de aplicação do Kernel Density e Zonal Statist
 
  - Este código foi produzido durante meu periodo de estagio no ICMBio.
  - Não criei a metodologia, porém o codigo foi feito no Arcpy e atualizado no ArcGis Pro por mim. 
- - Recomendo conhecimento basico em SIG e Python, quando eu estava criando utilizei o ModelBuilder, uma otima ferramenta para seguir a metodologia. 
+ - Recomendo conhecimento basico em SIG e Python 
 
 🔧 Requisitos
   - ArcGIS Pro instalado com licença para Spatial Analyst e Image Analyst (necessário para usar arcpy.sa e arcpy.ia).
