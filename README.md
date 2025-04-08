@@ -69,5 +69,6 @@ Código Python para metodologia de aplicação do Kernel Density e Zonal Statist
    - É importante que os dados estejam com geometrias válidas – o script usa RepairGeometry para garantir isso.
 
 🤝 Créditos
-Este código foi desenvolvido durante meu estágio no ICMBio, com base em uma metodologia pré-existente. A automação via Arcpy foi realizada por mim, com apoio do meu supervisor Juan orozco.
+
+   - Este código foi desenvolvido durante meu estágio no ICMBio, com base em uma metodologia pré-existente. A automação via Arcpy foi realizada por mim, com apoio do meu supervisor Juan orozco.
 
